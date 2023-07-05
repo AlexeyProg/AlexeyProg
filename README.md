@@ -1,5 +1,5 @@
 ### 👩‍💻  About Me :
-- 👋 Hi, I’m Alex. A guy form Russia who lives in Batumi, Georgia.
+- 👋 Hi, I’m Alex. A guy from Russia who lives in Batumi, Georgia.
 - 👀 C++ development(main)
 - 👀 Python parsing (hobby)
 - These projects are for view some my skills , ui i neglected.
